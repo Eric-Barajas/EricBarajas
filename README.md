@@ -1,4 +1,4 @@
-# EricBarajas
+# Tokyo Travel Planner
 
 Comments
 
@@ -12,3 +12,4 @@ Map
 
 ![map2](https://user-images.githubusercontent.com/114328995/219990892-6674c524-556d-4b5d-8971-7dae57b74974.gif)
 
+# Studio Design Shop
