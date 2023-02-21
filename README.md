@@ -18,19 +18,19 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
 
 #
 
-## ⛩️🍙🍱🍜🇯🇵 **[Tokyo Travel Planner](https://github.com/Eric-Barajas/DestinationTokyo)** 
+## ⛩️🇯🇵 **[Tokyo Travel Planner](https://github.com/Eric-Barajas/DestinationTokyo)** 
 Tech Stack: Java, MySQL, Spring Boot, BootStrap
 A full stack travel planner website dedicated to foreigners planning their stays in Tokyo. In addition to providing users the ability to explore all tokyo has to offer. Users also have the ability to write their own reviews on the locations they traveled to, as well as revise and delete their own comments.
 
-Comments
+🍙 Comments
 
 ![comments2](https://user-images.githubusercontent.com/114328995/219989815-ef71356d-f607-4cb1-8b9f-8db89faa9dbc.gif)
 
-Layout
+🍱 Layout
 
 ![layout2](https://user-images.githubusercontent.com/114328995/219990301-bdc444b6-27ab-46d8-9ce8-5693088889f9.gif)
 
-Map
+🍜 Map
 
 ![map2](https://user-images.githubusercontent.com/114328995/219990892-6674c524-556d-4b5d-8971-7dae57b74974.gif)
 
