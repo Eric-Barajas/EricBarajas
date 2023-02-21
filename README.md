@@ -23,11 +23,11 @@ Tech Stack: Java, MySQL, Spring Boot, BootStrap
 
 A full stack travel planner website dedicated to foreigners planning their stays in Tokyo. In addition to providing users the ability to explore all tokyo has to offer. Users also have the ability to write their own reviews on the locations they traveled to, as well as revise and delete their own comments.
 
-<p> 🍙 Comments </p>
+<b> 🍙 Comments </b>
 
 ![comments2](https://user-images.githubusercontent.com/114328995/219989815-ef71356d-f607-4cb1-8b9f-8db89faa9dbc.gif)
 
-<p> 🍱 Layout </p>
+<b> 🍱 Layout </b>
 
 ![layout2](https://user-images.githubusercontent.com/114328995/219990301-bdc444b6-27ab-46d8-9ce8-5693088889f9.gif)
 
