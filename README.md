@@ -25,7 +25,7 @@ A full stack travel planner website dedicated to foreigners planning their stays
 
 
 
-<p align = "center"> <img src="comments2.gif">
+<p align = "center" <img src="![comments2](https://user-images.githubusercontent.com/114328995/220222461-e963b9b7-3cf4-412d-81fd-9ff679bb2f56.gif)"> >
 
 Comments
 
