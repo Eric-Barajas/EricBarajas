@@ -22,11 +22,6 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
 Tech Stack: Java, MySQL, Spring Boot, BootStrap
 A full stack travel planner website dedicated to foreigners planning their stays in Tokyo. In addition to providing users the ability to explore all tokyo has to offer. Users also have the ability to write their own reviews on the locations they traveled to, as well as revise and delete their own comments.
 
-
-
-
-<p align = "center" <img src="![comments2](https://user-images.githubusercontent.com/114328995/220222461-e963b9b7-3cf4-412d-81fd-9ff679bb2f56.gif)"> >
-
 Comments
 
 ![comments2](https://user-images.githubusercontent.com/114328995/219989815-ef71356d-f607-4cb1-8b9f-8db89faa9dbc.gif)
@@ -38,5 +33,6 @@ Layout
 Map
 
 ![map2](https://user-images.githubusercontent.com/114328995/219990892-6674c524-556d-4b5d-8971-7dae57b74974.gif)
+
 
 # Studio Design Shop
