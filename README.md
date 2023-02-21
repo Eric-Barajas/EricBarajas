@@ -14,6 +14,8 @@ Hello my name is Eric, I am 20 years old, I love all kinds of fitness, whether t
 <img align="left" alt="Flask" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
+<br/>
+
 #
 
 ## 🎹 **[Tokyo Travel Planner](https://github.com/Eric-Barajas/DestinationTokyo)** 
